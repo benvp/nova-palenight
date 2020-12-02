@@ -4,5 +4,7 @@
   "organization": "benvp",
   "description": "A palenight theme based on the excellent theme from Olaolu Olawuy for VSCode.",
   "version": "0.0.1",
-  "categories": ["themes"]
+  "categories": ["themes"],
+  "bugs": "https://github.com/benvp/nova-palenight/issues",
+  "repository": "https://github.com/benvp/nova-palenight"
 }
