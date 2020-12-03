@@ -15,6 +15,7 @@ meta.window {
 meta.titlebar {
   color: hsla(232, 36%, 75%, 1);
   border-color: hsla(229, 22%, 25%, 1);
+  background-color: hsla(229, 22%, 20%, 1);
 }
 meta.titlebar.inactive {
   background-color: hsla(228, 23%, 18%, 1);
@@ -315,4 +316,54 @@ style.value.color.named {
 }
 style.value.identifier.function {
   color: hsl(40, 100%, 64%);
+}
+
+/* Terminal */
+terminal.black {
+  color: hsl(231, 18%, 49%);
+}
+terminal.red {
+  color: hsl(350, 100%, 67%);
+}
+terminal.green {
+  color: hsl(84, 40%, 64%);
+}
+terminal.yellow {
+  color: hsl(39, 100%, 71%);
+}
+terminal.blue {
+  color: hsl(221, 100%, 75%);
+}
+terminal.magenta {
+  color: hsl(276, 68%, 75%);
+}
+terminal.cyan {
+  color: hsl(197, 100%, 77%);
+}
+terminal.white {
+  color: hsl(0, 0%, 95%);
+}
+terminal.bright-black {
+  color: hsl(231, 18%, 49%);
+}
+terminal.bright-red {
+  color: hsl(350, 100%, 67%);
+}
+terminal.bright-green {
+  color: hsl(84, 66%, 73%);
+}
+terminal.bright-yellow {
+  color: hsl(39, 100%, 71%);
+}
+terminal.bright-blue {
+  color: hsl(221, 100%, 75%);
+}
+terminal.bright-magenta {
+  color: hsl(276, 68%, 75%);
+}
+terminal.bright-cyan {
+  color: hsl(197, 100%, 77%);
+}
+terminal.bright-white {
+  color: hsl(0, 0%, 100%);
 }
