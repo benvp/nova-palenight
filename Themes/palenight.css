@@ -360,3 +360,22 @@ terminal.bright-cyan {
 terminal.bright-white {
   color: hsl(0, 0%, 100%);
 }
+
+/* TypeScript */
+typescript.identifier.type.core {
+  color: hsl(41, 100%, 69%);
+}
+typescript.identifier.type {
+  color: hsl(197, 100%, 77%);
+}
+
+/* TSX */
+tsx.tag {
+  color: hsl(350, 100%, 67%);
+}
+tsx.tag.open {
+  color: hsl(197, 100%, 77%);
+}
+tsx.tag.attribute.name {
+  color: hsl(39, 100%, 71%);
+}
